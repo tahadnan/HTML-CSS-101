@@ -1,0 +1,16 @@
+.title,.order {
+    text-align: center;
+    font-family: "Montserrat";
+}
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.order{
+    font-weight: 500;
+}
+.delivery{
+    text-decoration: underline;
+    color: cadetblue;
+}
