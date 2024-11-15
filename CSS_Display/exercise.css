@@ -1,0 +1,25 @@
+input {
+    display: block;
+    margin-top: 5px;
+}
+
+.survey,.yes,.no {
+    display: inline-block;
+    vertical-align: middle;
+}
+.survey {
+    width: 240px;
+}
+
+.google {
+    width: 400px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.search {
+    width: 500px;
+    padding: 15px 10px 15px 10px;
+    border-radius: 25px;
+    margin-left: 250px;
+    margin-right: 200px;
+}

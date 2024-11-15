@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap');
+
+body {
+    background-color: bisque;
+}
+.search-bar {
+    display: block;
+    margin-bottom: 50px;
+}
+
+.gatts-picture, .griffith-picture {
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+    text-align: center;
+    margin-right: 50PX;
+}
+.gatts-pic {
+    width: 300px;
+}
+.title {
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: large;
+    letter-spacing: 0.25px;
+}
+.price {
+    color: green;
+    font-style: italic;
+}
+.griffith-pic {
+    width: 300px;
+}
+.offer {
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: large;
+}
+.offer-state {
+    text-decoration: underline;
+    font-style: italic;
+    color: red;
+}
+.buy {
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: large;
+    padding: 7px 15px 7px 15px;
+    border: none;
+    background-color: red;
+    border-radius: 25px;
+    color: orange;
+}

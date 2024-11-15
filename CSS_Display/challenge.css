@@ -1,0 +1,53 @@
+.first-name, .last-name {
+    border-radius: 5px;
+    padding: 8px 5px 8px 5px;
+    margin-top: 5px;
+    width: 125px;
+}
+
+.email {
+    display: block;
+    border-radius: 5px;
+    padding: 8px 5px 8px 5px;
+    margin-top: 5px;
+    width: 267px;
+}
+.sign-up {
+    margin-top: 10px;
+    width: 280px;
+    border-radius: 10px;
+    font-size: large;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(2, 140, 186);
+    padding: 10px 5px 10px 5px ;
+    border: none;
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    margin-bottom: 0;
+}
+.pickup-loc, .destination {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 6px 3px 6px 10px;
+    width: 300px;
+    background-color: gainsboro;
+    border: none;
+}
+.request, .schedule {
+    padding: 10px 15px 10px 15px;
+    border: none;
+    margin-right: 5px;
+    font-weight: bold;
+}
+.schedule {
+    height: 40px;
+}
+.request {
+    color: white;
+    background-color: black;
+}

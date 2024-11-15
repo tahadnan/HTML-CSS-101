@@ -107,4 +107,22 @@ Length properties (height, width, margin, etc.) can be specified using various u
     + CSS comments uses 4 space indents for cleaner code.
     + CSS comments are written as ```/* This is a CSS comment */```
 
-### Summary:
+# Basic animations:
+We can achieve some basic animations by defining a pseudo class, which basically changes an element style according to a state, for example:
+
+```html
+<button class="click">Click Me</button>
+```
+```css
+.click {
+    color: red;
+    font-weight: bold;
+    /* Other styles */
+    transition:hover 0.5s;
+} 
+.click:hover {
+    color: orange;
+    font-weight: bold;
+    
+}
+```

@@ -1,0 +1,12 @@
+.image {
+    width: 450px;
+    /* height: 450px;
+    object-fit: contain;
+    object-position: top;
+    border-width: 2px;
+    border-style: dotted; */
+}
+
+.searchbox {
+    font-size: large;
+}
